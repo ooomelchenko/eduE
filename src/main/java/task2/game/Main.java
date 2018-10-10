@@ -4,10 +4,7 @@ import task2.game.model.Model;
 
 public class Main {
     public static void main(String[] args) {
-      Model m = new Model();
-
-
-        System.out.println(m.rand());
-
+        Controller controller = new Controller(new Model(), new View());
+        controller.playGame(0, 100);
     }
 }
