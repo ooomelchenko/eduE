@@ -1,7 +1,7 @@
 package task2.game.model;
 
 public class Model implements IModel {
-    private final static int RAND_MAX =1000;
+    public final static int RAND_MAX =1000;
 
     public Model() {
     }
