@@ -2,6 +2,7 @@
 */target/*
 .idea/*
 */out/*
+pom.xml
 
 *.classpath
 *.project
@@ -13,3 +14,4 @@
 *.jar
 *.war
 *.ear
+
