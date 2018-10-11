@@ -15,6 +15,7 @@ public class TestModel {
     public void init(){
         model = new Model();
     }
+
     @Test
     public void testRand1(){
         Assert.assertTrue(model.rand()>=0);
