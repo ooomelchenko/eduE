@@ -19,8 +19,8 @@ public class Controller {
         this.view = view;
     }
 
-    public void startGame(int startMin, int startMax) {
-        run(startMin, startMax);
+    public void startGame(int minValue, int maxValue) {
+        run(minValue, maxValue);
     }
     public void startGame() {
         run(0, Model.RAND_MAX);
