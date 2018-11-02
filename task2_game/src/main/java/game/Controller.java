@@ -1,6 +1,6 @@
-package task2.game;
+package game;
 
-import task2.game.model.Model;
+import game.model.Model;
 
 import java.util.ArrayList;
 import java.util.List;

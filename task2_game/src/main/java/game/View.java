@@ -1,4 +1,4 @@
-package task2.game;
+package game;
 
 class View {
 

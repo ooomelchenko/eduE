@@ -1,4 +1,4 @@
-package task2.game.model;
+package game.model;
 
 public class Model implements IModel {
     public final static int RAND_MAX =1000;

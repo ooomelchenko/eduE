@@ -3,7 +3,7 @@ package model;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import task2.game.model.Model;
+import game.model.Model;
 
 public class TestModel {
 

@@ -1,6 +1,6 @@
-package task2.game;
+package game;
 
-import task2.game.model.Model;
+import game.model.Model;
 
 public class Main {
     public static void main(String[] args) {

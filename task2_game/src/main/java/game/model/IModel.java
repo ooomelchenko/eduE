@@ -1,4 +1,4 @@
-package task2.game.model;
+package game.model;
 
 public interface IModel {
 
